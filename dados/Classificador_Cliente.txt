@@ -1,0 +1,100 @@
+cliente0 - sustentável, ecológico, tecnológico
+cliente1 - ecológico, saudável, eficiente
+cliente2 - solar, reciclado
+cliente3 - sustentável, orgânico, reutilizável
+cliente4 - natural, vegano, outdoor
+cliente5 - ecológico, saudável, inoxidável
+cliente6 - orgânico, tecnológico
+cliente7 - educacional, sustentável, orgânico
+cliente8 - vegano, artesanal
+cliente9 - ecológico, vegano, prático
+cliente10 - local, reciclado, natural
+cliente11 - saudável, sustentável, tecnológico
+cliente12 - ecológico, prático, outdoor
+cliente13 - local, educacional, sustentável
+cliente14 - reciclado, ecológico, durável
+cliente15 - orgânico, natural
+cliente16 - tecnológico, eficiente, saudável
+cliente17 - reciclado, natural, biodegradável
+cliente18 - educacional, reciclado, solar
+cliente19 - prático, durável, orgânico
+cliente20 - reciclado, sustentável, orgânico
+cliente21 - natural, local, saudável
+cliente22 - orgânico, bambu, reutilizável
+cliente23 - ecológico, sustentável, orgânico
+cliente24 - educacional, tecnológico, sustentável
+cliente25 - solar, ecológico, recarregável
+cliente26 - saudável, eficiente, não-tóxico
+cliente27 - reciclado, solar
+cliente28 - orgânico, confortável
+cliente29 - sustentável, eficiente, solar
+cliente30 - outdoor, durável, eficiente
+cliente31 - educacional, natural, sustentável
+cliente32 - reciclado, saudável, natural
+cliente33 - natural, cosmético, ecológico
+cliente34 - prático, tecnológico, saudável
+cliente35 - reciclado, ecológico
+cliente36 - saudável, solar, eficiente
+cliente37 - educacional, eficiente, prático
+cliente38 - inoxidável, orgânico, bambu
+cliente39 - natural, saudável, solar
+cliente40 - orgânico, sustentável
+cliente41 - orgânico, bambu
+cliente42 - natural, outdoor, sustentável
+cliente43 - vegano, eficiente, saudável
+cliente44 - vegano, ecológico, outdoor
+cliente45 - solar, ecológico, durável
+cliente46 - orgânico, alimentar, sustentável
+cliente47 - reciclado, solar, artesanal
+cliente48 - educacional, eficiente, ecológico
+cliente49 - sustentável, solar, local
+cliente50 - ecológico, prático, reciclado
+cliente51 - solar, ecológico, educacional
+cliente52 - recarregável, inoxidável
+cliente53 - orgânico, educacional, saudável
+cliente54 - não-tóxico, tecnológico
+cliente55 - reutilizável, ecológico
+cliente56 - tecnológico, orgânico, solar
+cliente57 - durável, reciclado, sustentável
+cliente58 - orgânico, local
+cliente59 - solar, durável, saudável
+cliente60 - local, reciclado, sustentável
+cliente61 - orgânico, saudável, bambu
+cliente62 - natural, inoxidável, biodegradável
+cliente63 - sustentável, confortável, eficiente
+cliente64 - orgânico, sustentável, alimentar
+cliente65 - solar, reutilizável
+cliente66 - orgânico, solar, reciclado
+cliente67 - vegano, educacional, reciclado
+cliente68 - natural, reutilizável, orgânico
+cliente69 - eficiente, não-tóxico
+cliente70 - solar, saudável, inoxidável
+cliente71 - solar, reciclado
+cliente72 - não-tóxico, solar, educacional
+cliente73 - sustentável, ecológico, recarregável
+cliente74 - reutilizável, educacional
+cliente75 - sustentável, outdoor
+cliente76 - não-tóxico, prático
+cliente77 - eficiente, sustentável, prático
+cliente78 - ecológico, artesanal
+cliente79 - orgânico, alimentar
+cliente80 - reciclado, natural
+cliente81 - ecológico, durável
+cliente82 - orgânico, solar
+cliente83 - não-tóxico, reutilizável
+cliente84 - local, educacional, ecológico
+cliente85 - eficiente, natural
+cliente86 - solar, eficiente
+cliente87 - orgânico, não-tóxico, bambu
+cliente88 - saudável, local, natural
+cliente89 - bambu, saudável
+cliente90 - vegano, solar
+cliente91 - durável, educacional, tecnológico
+cliente92 - reciclado, orgânico, ecológico
+cliente93 - ecológico, bambu
+cliente94 - natural, durável, orgânico
+cliente95 - sustentável, solar, inoxidável
+cliente96 - sustentável, solar, eficiente
+cliente97 - bambu, solar, orgânico
+cliente98 - educacional, ecológico, prático
+cliente99 - ecológico, mineral, sustentável

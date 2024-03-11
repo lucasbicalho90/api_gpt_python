@@ -1,0 +1,7 @@
+Recomendação: **Acionar setor Anti-Fraude**
+
+Classificação do Tipo de Fraude: **Atividade Fora do Padrão**
+
+Justificativa: A transação em questão foi automaticamente marcada como 'Possível Fraude' devido a um conjunto de indicadores atípicos. Primeiramente, o valor da transação, sendo notavelmente alto para a categoria "Artigo Esportivo" e o estabelecimento "Esporte C", destoa do histórico habitual de compras, sugerindo uma discrepância que merece investigação. Segundamente, a localização e o horário da compra, combinados, sugerem atividades que podem divergir dos padrões normais do titular do cartão, considerando os dados disponíveis. 
+
+Pela natureza e a quantidade de sinais de alerta associados a esta transação, a medida mais segura envolve uma avaliação aprofundada pelo setor Anti-Fraude. Eles estarão mais aptos a conduzir investigações detalhadas, que podem incluir análise de padrões de transações anteriores, confirmação da localização física do titular do cartão no momento da transação e, se necessário, contato direto com o cliente para obter esclarecimentos. A priorização dessa abordagem visa prevenir potenciais perdas financeiras tanto para o cliente quanto para a instituição financeira, garantindo a integridade da conta e a segurança dos fundos envolvidos.
